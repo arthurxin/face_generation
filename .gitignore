@@ -1,2 +1,3 @@
 
 .ipynb_checkpoints/dlnd_face_generation-checkpoint.ipynb
+*.pyc
